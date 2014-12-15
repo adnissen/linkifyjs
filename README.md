@@ -1,7 +1,7 @@
 linkifyjs
 =========
 
-Super easy library to replace all the plaintext urls on your page with <a> tags. 
+Super easy library to replace all the plaintext urls on your page with <a> tags (requires jquery). 
 
 Usage
 =====
